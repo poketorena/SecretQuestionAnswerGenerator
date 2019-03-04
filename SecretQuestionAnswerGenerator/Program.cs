@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reactive.Linq;
 
-namespace RandomStringGeneratorFromKatakanaAndHiragana
+namespace SecretQuestionAnswerGenerator
 {
     class Program
     {
