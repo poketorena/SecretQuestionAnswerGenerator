@@ -1,0 +1,2 @@
+# SecretQuestionAnswerGenerator
+ひらがなとカタカナを使って秘密の質問の答えを生成する奴
